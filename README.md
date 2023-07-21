@@ -7,7 +7,7 @@ Pure CSS Website
 The website which showcases [Pure CSS][Pure].
 
 
-[Pure]: https://github.com/pure-css/pure
+[Pure]: https://github.com/pure-css/pureeee
 grapped
 
 Running Locally
