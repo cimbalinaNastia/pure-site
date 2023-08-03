@@ -8,13 +8,6 @@ Pure CSS Website
 
 
 [Pure]: https://github.com/pure-css/pureeee
-grapped
-
-Running Locally[![Build Status](https://travis-ci.org/pure-css/pure-site.svg?branch=master)](https://travis-ci.org/pure-css/pure-site)
-[![Dependency Status](https://david-dm.org/pure-css/pure-sitjhghde.svg)](https://david-dm.org/pure-csscss/pure-site)
-[![Dependency Status](https://david-dm.org/pure-css/pure-sitjhghde.svg)](https://david-dm.org/pure-csscss/pure-site)
-
-The website which showcases [Pure CSS][Pure].
 
 
 [Pure]: https://github.com/pure-css/pureeee
