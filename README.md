@@ -21,9 +21,6 @@ Arrested capital))))
 This is a node.js site which uses Express.js, which means it's very easy to get
 running locally.
 
-```shell
-$ npm install
-$ npm start
 ```
 
 To run the health checks:
