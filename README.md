@@ -11,11 +11,6 @@ Pure CSS Website
 
 
 [Pure]: https://github.com/pure-css/pureeee
-grapped
-
-Running Locally
-grapped
----------------
 
 Arrested capital))))
 This is a node.js site which uses Express.js, which means it's very easy to get
