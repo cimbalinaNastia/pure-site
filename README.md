@@ -55,17 +55,6 @@ $ grunt
 $ npm link
 ```
 
-Now you'll need to move into where you have this project checked out locally,
-install the website's npm dependencies (if you haven't done so already),
-link `pure` in `pure-site` using npm, then start up the server with the
---pure-local argument:
-
-```shell
-$ cd ../pure-site/
-$ npm link purecss
-$ node server.js --pure-local
-```
-
 **Note:** The steps to install the npm dependencies and link pure using npm do
 *not* have to be run each time you start the server. Also, you can leave the
 server running and rebuild `pure` via `grunt` and you'll see the changes in your
